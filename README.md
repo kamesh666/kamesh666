@@ -1,8 +1,9 @@
 ## Hey 👋, I'm Kamesh!
 [![](https://visitcount.itsvg.in/api?id=kamesh666&icon=2&color=0)](https://visitcount.itsvg.in)
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif" >
 
 # 💫 About Me:
-🔭 I'm currently working Track Back<br>🌱 I'm currently learning React native<br>❓ Ask me about MERN<br>⚡ Fun fact: I use tabs over spaces<br>How to reach me kameshjeeva30@gmail.com
+🔭 I'm currently working Track Back<br>🌱 I'm currently learning React native<br>❓ Ask me about MERN<br>⚡ Fun fact: I use tabs over spaces<br>📫 How to reach me kameshjeeva30@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamesh-s-a6b6281a3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14428717) 
