@@ -1,5 +1,8 @@
+## Hey 👋, I'm Kamesh!
+[![](https://visitcount.itsvg.in/api?id=kamesh666&icon=2&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
-I'm currently working Track Back<br>I'm currently learning React native<br>Ask me about MERN<br>How to reach me kameshjeeva30@gmail.com
+🔭 I'm currently working Track Back<br>🌱 I'm currently learning React native<br>❓ Ask me about MERN<br>⚡ Fun fact: I use tabs over spaces<br>How to reach me kameshjeeva30@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamesh-s-a6b6281a3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14428717) 
@@ -15,4 +18,4 @@ I'm currently working Track Back<br>I'm currently learning React native<br>Ask m
 ![](https://github-profile-trophy.vercel.app/?username=kamesh666&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kamesh666&icon=2&color=0)](https://visitcount.itsvg.in)
+
